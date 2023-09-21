@@ -22,4 +22,3 @@ Details in this repository are here:
 
 **downstream**
 * Do a migration to reduce the default maximum block size to 5mb.
-* 
