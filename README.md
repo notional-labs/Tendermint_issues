@@ -14,3 +14,12 @@ Details in this repository are here:
 
 * [Attack On Sentinel](./Attack_on_sentinel.md)
 
+
+## Proposed Mitigation
+
+**upstream**
+* Reduce the default maximum block size to 5mb.
+
+**downstream**
+* Do a migration to reduce the default maximum block size to 5mb.
+* 
