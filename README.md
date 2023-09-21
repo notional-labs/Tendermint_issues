@@ -10,3 +10,7 @@ The HackerOne report for this, which got no response for 18 days, and has never 
 
 * https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:c14b2605-3497-381a-870e-510b92e33f75
 
+Details in this repository are here:
+
+* [Attack On Sentinel](./Attack_on_sentinel.md)
+
